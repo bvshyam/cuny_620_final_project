@@ -1,3 +1,9 @@
+# custom files
+data/glove.6B.100d.txt
+saved_models/resume_chatbot_save_3000.hdf5
+
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
